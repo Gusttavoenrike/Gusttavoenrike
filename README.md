@@ -1,8 +1,18 @@
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
+
+###
+
 <h1 align="center">Seja bem-vindo 👋</h1>
 
 ###
 
-<h4 align="center">Eu me chamo Gusttavo Enrike, tenho 18 anos, nascido em São Paulo. Concluí o ensino médio no Alberto Salotti, com o curso técnico em  Desenvolvimento de sistemas. Sou apaixonado por tecnologia</h4>
+<img align="right" height="300" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ6dWwwbXoxZnF6M2Z0YzIwM3NyM283NXgzNDM2dHppMXUxanVzcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0Ei5SMtHRmTkMkjVei/giphy.gif"  />
+
+###
+
+<h4 align="center">Eu me chamo Gusttavo Enrike, tenho 18 anos, nascido em São Paulo. Concluí o ensino médio por Alberto Salotti, com o curso técnico em Desenvolvimento de sistemas. Sou apaixonado por tecnologia</h4>
 
 ###
 
@@ -33,17 +43,23 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  <a href="https://mail.google.com/mail/u/3/?hl=en#inbox" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
+  </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
+  <a href="11 97843-9110" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="37" height="25" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Gusttavoenrike/Gusttavoenrike/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Gusttavoenrike/Gusttavoenrike/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Gusttavoenrike/Gusttavoenrike/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/Gusttavoenrike/Gusttavoenrike/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
 ###
